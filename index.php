@@ -3,8 +3,8 @@
 portal
 </title>
   <center><h1>portal1</h1></center>
-  <h1><?php
+  <?php
 $ip=$REMOTE_ADDR;
 echo'<b>Tu ip es '.$ip.'</b>';
-?></h1>
+?>
 </html>
